@@ -6,4 +6,4 @@ A new Flutter project.
 This repo contains  of flutter text widget
 It will give some information on how a text widget can be used.
 
-![screen shot](https://github.com/[surya196]/[flutterapp]/blob/[master]/Screenshot_2021-07-29-15-00-35-20.jpg?raw=true)
+![screen shot](https://github.com/surya196/flutterwidgets/issues/1#issue-956454046)
